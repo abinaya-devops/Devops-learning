@@ -1,2 +1,2 @@
-# Devops-learning
-My DevOps and AWS learning journey 🚀
+# DevOps Journey 🚀
+Learning Linux, AWS and DevOps.
